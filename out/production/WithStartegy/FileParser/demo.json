@@ -1,0 +1,10 @@
+
+  {
+    "ID": 1,
+    "Name": "John Doe",
+    "Age": 28,
+    "Gender": "Male",
+    "Email": "john.doe@example.com",
+    "Phone": "123-456-7890",
+    "Address": "123 Elm St, Springfield, IL"
+  }

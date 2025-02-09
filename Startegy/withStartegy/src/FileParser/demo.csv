@@ -1,0 +1,11 @@
+ID,Name,Age,Gender,Email,Phone,Address
+1,John Doe,28,Male,john.doe@example.com,123-456-7890,123 Elm St, Springfield, IL
+2,Jane Smith,34,Female,jane.smith@example.com,987-654-3210,456 Oak Ave, Springfield, IL
+3,Robert Brown,45,Male,robert.brown@example.com,543-210-9876,789 Pine Rd, Chicago, IL
+4,Emily Davis,29,Female,emily.davis@example.com,654-321-8765,101 Maple Ln, Naperville, IL
+5,Michael Wilson,38,Male,michael.wilson@example.com,876-543-2109,202 Cedar Blvd, Aurora, IL
+6,Olivia Johnson,22,Female,olivia.johnson@example.com,321-987-6540,303 Birch Dr, Wheaton, IL
+7,William Lee,51,Male,william.lee@example.com,432-109-8765,404 Fir St, Schaumburg, IL
+8,Isabella Martinez,30,Female,isabella.martinez@example.com,210-987-6543,505 Redwood Ct, Evanston, IL
+9,James White,60,Male,james.white@example.com,765-432-1098,606 Willow Way, Glenview, IL
+10,Sophia Taylor,40,Female,sophia.taylor@example.com,876-321-9876,707 Sycamore Ave, Oak Park, IL
