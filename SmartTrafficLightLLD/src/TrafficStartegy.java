@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface TrafficStartegy {
+public interface TrafficStartegy {
+    void execute();
 }

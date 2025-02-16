@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface TrafficObserver {
+public interface TrafficObserver {
+    void update(EventEnum event);
 }

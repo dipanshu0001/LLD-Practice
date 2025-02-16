@@ -1,0 +1,5 @@
+Smart Traffic Light System
+You are designing a smart traffic light system for a city.
+The system should dynamically adjust traffic signal durations based on real-time factors like traffic density,
+pedestrian crossings, emergency vehicles, and special events (e.g., parades). The system must be flexible enough
+to incorporate new rules without modifying existing logic. How would you design this system?

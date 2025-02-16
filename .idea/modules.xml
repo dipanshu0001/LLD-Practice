@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/LLD-Code_level.iml" filepath="$PROJECT_DIR$/.idea/LLD-Code_level.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer/Observer.iml" filepath="$PROJECT_DIR$/Observer/Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Parking_lot/Parking_lot.iml" filepath="$PROJECT_DIR$/Parking_lot/Parking_lot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SmartTrafficLightLLD/SmartTrafficLightLLD.iml" filepath="$PROJECT_DIR$/SmartTrafficLightLLD/SmartTrafficLightLLD.iml" />
       <module fileurl="file://$PROJECT_DIR$/Startegy/Startegy.iml" filepath="$PROJECT_DIR$/Startegy/Startegy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Startegy/WithStartegy/WithStartegy.iml" filepath="$PROJECT_DIR$/Startegy/WithStartegy/WithStartegy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Startegy/WithoutStartegy/WithoutStartegy.iml" filepath="$PROJECT_DIR$/Startegy/WithoutStartegy/WithoutStartegy.iml" />
