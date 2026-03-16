@@ -16,18 +16,18 @@ javac -d out src/*.java 2>&1
 if [ $? -eq 0 ]; then
     echo "✓ Compilation successful"
 
-    # Copy properties file to classpath
+    # Copy properties file to classpath root
     cp src/logger.properties out/
     echo "✓ Properties file copied to classpath"
 
     # Verify Main.class exists
-    if [ -f "out/Main.class" ]; then
-        echo "✓ Main.class found"
+    if [ -f "out/com/dipanshu/logging/examples/Main.class" ]; then
+        echo "✓ Main.class found (com.dipanshu.logging.examples.Main)"
         echo ""
         echo "Running Main..."
         echo "===================="
         cd out
-        java Main
+        java com.dipanshu.logging.examples.Main
     else
         echo "✗ Error: Main.class not found in out/ directory"
         echo "Available files in out/:"
